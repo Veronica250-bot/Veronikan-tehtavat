@@ -3,7 +3,7 @@ layout: default
 title: Viikko 2
 ---
 
-## Jekyll-teema ja CI/CD 
+## Jekyll-teema ja CI/CD
 
 Jekyll-sivustoa voi automatisoida helposti GitHub Actions -toiminnolla. GitHub Pages tukee Jekylliä suoraan, joten sivut rakennetaan automaattisesti aina kun muutoksia tehdään `main`-haaraan. Jos halutaan enemmän hallintaa, voidaan käyttää omaa workflow-tiedostoa `.github/workflows/`-kansiossa, jossa määritellään esimerkiksi testaukset ja ulkoasun tarkistukset ennen julkaisua.
 

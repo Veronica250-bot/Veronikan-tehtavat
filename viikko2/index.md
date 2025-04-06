@@ -1,7 +1,5 @@
---
-title: Viikko 2. Tehtävä Jekyll-teema ja CI/CD
-layout: default
----
+
+
 
 ## Jekyll-teema ja CI/CD
 

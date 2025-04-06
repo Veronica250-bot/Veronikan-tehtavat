@@ -5,7 +5,7 @@ layout: default
 
 # Tervetuloa Github Pages-sivustolleni
 
-Täältä löytyvät tehtäväpalautukset. Alta löydät linkin eri viikkojen tehtäväpalautuksiin.
+Täältä löytyvät tehtäväpalautukset viikottain. Linkki minun Githubiin löytyy alta. 
 
 ## Tehtäväpalautukset
 
